@@ -11,6 +11,8 @@
       "websiteURL": "https://github.com/0xPIT/encoder",
       "platforms": [
         {
+          "url": "https://github.com/corbolais/corbolais.github.io/archive/master.zip",
+          "archiveFileName": "master.zip",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
