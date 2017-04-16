@@ -1,12 +1,25 @@
 {
-  "name": "ClickEncoder",
-  "keywords": "encoder, button, input",
-  "description": "Arduino library to handle rotary encoders with buttons as a user input device",
+  "packages": [
+    {
+      "name": "ClickEncoder",
   "repository":
   {
     "type": "git",
     "url": "https://github.com/corbolais/encoder.git"
   },
-  "frameworks": "arduino",
-  "platforms": "atmelavr"
+      "maintainer": "0xPIT",
+      "websiteURL": "https://github.com/0xPIT/encoder",
+      "platforms": [
+        {
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "boards": [
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
 }
